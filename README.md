@@ -12,6 +12,10 @@ see [stringr](https://stringr.tidyverse.org),
 # toy.R
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Kayleeli/toy.R/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Kayleeli/toy.R/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/Kayleeli/toy.R/graph/badge.svg)](https://app.codecov.io/gh/Kayleeli/toy.R)
 <!-- badges: end -->
 
 The goal of toy.R is to is to make regular expressions more exciting! It
